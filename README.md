@@ -14,3 +14,4 @@ In this project, a hand gesture controlled robot is developed using MPU6050, whi
 <br />  m. Switch
 <br /> l. 433 MHz RF Transmitter and Receiver module
 <br />The software used is Arduino IDE 1.8.15 .
+<br />Libraries used:- “Wire.h” and “RH_ASK.h”
